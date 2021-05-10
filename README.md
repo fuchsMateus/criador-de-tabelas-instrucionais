@@ -10,5 +10,6 @@ O primeiro passo é digitar o caminho onde a imagem será criada.
 ```
 C:\Users\User\Documents
 ```
-
+Agora, as instruções desejadas na linha de comando do AutoCAD devem ser copiadas.
+![alt text](imagens/Capturar.PNG)
 
