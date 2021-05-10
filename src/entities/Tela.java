@@ -16,7 +16,6 @@ import java.io.IOException;
 import javax.imageio.ImageIO;
 import javax.swing.Box;
 import javax.swing.JButton;
-import javax.swing.JDialog;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JOptionPane;
@@ -31,7 +30,7 @@ import javax.swing.table.JTableHeader;
 
 import services.Utilitarios;
 
-public class Tela extends JDialog {
+public class Tela extends JFrame {
 
 	private static final long serialVersionUID = 6522229125567045020L;
 	
@@ -177,6 +176,14 @@ public class Tela extends JDialog {
 		gridBagConstraints.anchor = GridBagConstraints.CENTER;	
 		
 		add(painel, BorderLayout.CENTER);
+		
+		addWindowListener(new java.awt.event.WindowAdapter() {
+		    @Override
+		    public void windowClosing(java.awt.event.WindowEvent windowEvent) {
+		            System.exit(0); 
+		    }
+		});
+		
 		setVisible(true);
 	}
 }
