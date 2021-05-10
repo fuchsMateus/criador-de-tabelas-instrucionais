@@ -18,3 +18,5 @@ Agora, as instruções desejadas na linha de comando do AutoCAD devem ser copiad
 Após isso, ao clicar em "Criar tabela" uma imagem "tableImage.png" será criada no caminho especificado.
 
 ![alt text](imagens/tableImage.png)
+
+para usar o programa basta baixar o arquivo .jar e executar.
