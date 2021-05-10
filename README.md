@@ -15,6 +15,6 @@ Agora, as instruções desejadas na linha de comando do AutoCAD devem ser copiad
 
 ![alt text](imagens/img2.PNG)
 
-Após isso, uma imagem "tableImage.png" será criada no caminho especificado.
+Após isso, ao clicar em "Criar tabela" uma imagem "tableImage.png" será criada no caminho especificado.
 
 ![alt text](imagens/tableImage.png)
