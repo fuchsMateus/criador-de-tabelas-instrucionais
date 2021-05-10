@@ -10,6 +10,9 @@ O primeiro passo é digitar o caminho onde a imagem será criada.
 ```
 C:\Users\User\Documents
 ```
-Agora, as instruções desejadas na linha de comando do AutoCAD devem ser copiadas e coladas no programa (respeitando as quebras de linha)
+Agora, as instruções desejadas na linha de comando do AutoCAD devem ser copiadas e coladas para o programa (respeitando as quebras de linha)
 ![alt text](imagens/Capturar.PNG)
 
+![alt text](imagens/img2.PNG)
+
+Após isso, uma imagem "tableImage.png" será criada no caminho especificado.
