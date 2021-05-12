@@ -19,4 +19,4 @@ Após isso, ao clicar em "Criar tabela" uma imagem "tableImage.png" será criada
 
 ![alt text](imagens/tableImage.png)
 
-para usar o programa basta baixar o arquivo .jar e executar.
+Para usar o programa basta baixar o arquivo .jar e executar.
