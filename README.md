@@ -1,6 +1,8 @@
 # Criador de tabelas instrucionais do AutoCAD
 Este é um programa simples que automatiza a criação de imagens(<strong>png</strong>) a partir de tabelas(JTable).
 O intuito é criar tabelas que instruem como tal coisa deve ser feita no AutoCAD.
+
+Foi criado para facilitar o desenvolvimento de um projeto acadêmico.
 <hr>
 
 <h2>Como funciona</h2>
